@@ -14,7 +14,6 @@ setup(
     version='0.1.0',
     author='DrTang',
     description='A Python wrapper for the TianGong chatbot API',
-    long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/dd123-a/revTiangong',
     packages=find_packages(),
