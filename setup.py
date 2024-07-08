@@ -10,7 +10,7 @@ install_requires = [
 ]
 
 setup(
-    name='TiangongChatbot',
+    name='revTianGong',
     version='0.1.0',
     author='DrTang',
     description='A Python wrapper for the TianGong chatbot API',
